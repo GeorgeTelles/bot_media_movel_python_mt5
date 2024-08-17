@@ -1,10 +1,3 @@
-"""
-Esse robo analisa a média movel do grafico e abre a ordem caso o preço cruze a média de baixo para cima
-
-By: George Telles
-+55 11 93290-7425
-"""
-
 import MetaTrader5 as mt5
 import pandas as pd
 import pandas_ta as ta
